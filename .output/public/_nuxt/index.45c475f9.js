@@ -1,0 +1,1 @@
+import{_ as e}from"./_plugin-vue_export-helper.c27b6911.js";import{a as t,o}from"./entry.8a9db0c1.js";const c={};function n(r,a){return o(),t("div",null,"events custom default page")}const f=e(c,[["render",n]]);export{f as default};

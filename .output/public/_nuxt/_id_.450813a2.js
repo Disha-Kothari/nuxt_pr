@@ -1,0 +1,1 @@
+import{v as r,a as n,b as a,t,u,F as c,o as i}from"./entry.8a9db0c1.js";const d={__name:"[id]",setup(l){const e=r(),s=e.params.id;return e.query,(o,m)=>(i(),n(c,null,[a("div",null,"custom id:"+t(u(s)),1),a("div",null,"Using custom template syntax"+t(o.$route.params.id),1)],64))}};export{d as default};
